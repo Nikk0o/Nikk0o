@@ -1,17 +1,17 @@
 <html>
-  <head>
-    <style type="text/css"> 
-      #teste
-      {
-        width: 10px;
-        height: 60px;
-        background-color : lime;
-        }
-    </style>
-  </head>
   <body>
-    <div id="teste">
+    <div>
+      <p align="center"> 
       aloooo
+        uaaaaaaa
+      </p>
+      <img href="https://google.com" src="details-1-background.jpg">
+      <h1 align="center">
+        teste
+      </h1>
+      <h2>
+        teste 2
+      </h2>
     </div>
     <p>
       sera q eh isso
