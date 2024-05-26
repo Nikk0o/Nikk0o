@@ -1,16 +1,24 @@
-## Hi there 👋
+<html>
+  <body>
+    <p>
+      sera q eh isso
+      nooossa
+    </p>
+    <p>
+      sera q vai
+    </p>
+    <p>
+      q foda
+    </p>
+    <img src="https://www.guiaviagensbrasil.com/imagens/Imagem%20do%20mar%20calma%20e%20belo%20da%20Praia%20da%20Engenhoca-Itacar%C3%A9-Bahia-BA.jpg" alt="teste">
+    
 
-<!--
-**Nikk0o/Nikk0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+  </body>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+</html>
+
+# e ai vai agr
