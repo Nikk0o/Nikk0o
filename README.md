@@ -5,7 +5,9 @@
       aloooo
         uaaaaaaa
       </p>
-      <img href="https://google.com" src="details-1-background.jpg">
+      <a href="google.com">
+        <img src="details-1-background.jpg">
+      </a>
       <h1 align="center">
         teste
       </h1>
