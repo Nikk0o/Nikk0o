@@ -1,12 +1,7 @@
-<html>
-  <p background-color="black">
-  awooga
-  </p>
-</html>
-<img src="https://i0.wp.com/media1.tenor.com/images/1e0b3e95c409b14d5fda6a6aa502f178/tenor.gif" align="center">
-<h1>Sobre mim</h1>
+
+<img src="https://static.vecteezy.com/system/resources/thumbnails/003/279/108/small/panorama-sky-with-cloud-on-a-sunny-day-free-photo.jpg" width="1000">
 <p align="left">
-  Pronomes: Ele/Elu <br>Área: <br>Idade: <br>Linguagens: C <br>
+  lkjslkdfjhlsfkd hskl dfhuk3h iuhwuierouiwefuhihjldhj jsdf j hjslhjkfhksdjlhjj afhjsahjd hj jkdj fksajl jhkekjahulfh uueihlfhjsd  djfslhdjhaklsj ahljd ljdjhj hjjh hjhj dfjsaljkfdjlhd  dfjksajk jh dsjkd hfd jjdfskjfdksj df aaa
 </p>
 
 
